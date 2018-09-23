@@ -4,18 +4,25 @@ body { background: cornflowerblue;
     font-size: 21pt; }
 body { font-family: "PT Sans Narrow", sans-serif; }
 
-A { display: inline-block }
+a{ display: inline-block }
 
-A { border-left: 15px solid cornflowerblue }
+a{ border-left: 15px solid cornflowerblue }
 
-A { padding:15px;
+a{ padding:15px;
     margin: 5px;
     background: white }
 
-A { color: cornflowerblue;}
+a{ color: cornflowerblue;}
 
-A :hover { color: yellow }
+a:hover { color: yellow }
 
 .links { float: right }
 
-.paragraph {float: outside}
+.paragraph { clear: right }
+
+.image {float: right}
+
+.ultimate {float: right}
+
+
+
