@@ -4,17 +4,17 @@ body { background: cornflowerblue;
     font-size: 21pt; }
 body { font-family: "PT Sans Narrow", sans-serif; }
 
-a { display: inline-block }
+A { display: inline-block }
 
-a { border-left: 15px solid cornflowerblue }
+A { border-left: 15px solid cornflowerblue }
 
-a { padding:15px;
+A { padding:15px;
     margin: 5px;
     background: white }
 
-a { color: cornflowerblue;}
+A { color: cornflowerblue;}
 
-a:hover { color: yellow }
+A :hover { color: yellow }
 
 .links { float: right }
 
