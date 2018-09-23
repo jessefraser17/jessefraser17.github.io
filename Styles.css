@@ -1,8 +1,21 @@
 
 body { background: cornflowerblue;
     color: black;
-    font-size: 24pt; }
+    font-size: 21pt; }
 body { font-family: "PT Sans Narrow", sans-serif; }
 
-li { display: inline-block }
+a { display: inline-block }
 
+a { border-left: 15px solid cornflowerblue }
+
+a { padding:15px;
+    margin: 5px;
+    background: white }
+
+a { color: cornflowerblue;}
+
+a:hover { color: yellow }
+
+.links { float: right }
+
+.paragraph {float: outside}
